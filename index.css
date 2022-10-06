@@ -1,0 +1,9 @@
+* {
+    text-align: center;
+}
+
+body {
+    display: inline-block;
+    margin: 0px auto;
+    text-align: center;
+}
